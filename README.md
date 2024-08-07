@@ -5,7 +5,7 @@
 
 ## Contributor
 
-- **[Josoa886](https://github.com/Josoa886)**
+- **[Josoa](https://github.com/josoavj)**
 
 ### Getting Started
 
