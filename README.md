@@ -1,6 +1,6 @@
 # sfidashboard
 
-- **Info:** A simple monitoring application 
+- **Info:** A simple monitoring application
 - **Type:** Mobile application
 
 ## Contributor
